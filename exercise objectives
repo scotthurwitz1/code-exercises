@@ -1,3 +1,7 @@
+Exercise Objectives
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 DS&A exercise: 
 
 Part 1: Sorting Arrays
@@ -12,3 +16,18 @@ Part 2: Sorting & Searching HashMap
 Now revise the code to store the pairs of each state and its capital in a Map using the HashMap function. Display the content of the Map, 
 then use the TreeMap class to sort the map while using a binary search tree for storage. Next, your program should prompt the user to enter a 
 state and it should then display the capital for the state.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Database Management Exercise:
+
+From a high-level standpoint, this exercise consists of the following steps:
+
+1. Selection of a database.
+
+2. Identifying the requirements for the database based on the purpose for the database and the data to fill the database.
+
+3. Create a database design based on the requirements for the database, create the physical database, and load data into the database.
+
+4. After loading the database, carry out sample queries that would be performed on the actual database. Show the results of the sample queries.
+
